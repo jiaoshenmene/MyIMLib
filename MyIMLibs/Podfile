@@ -1,0 +1,5 @@
+source 'https://github.com/jiaoshenmene/PodLib.git'
+platform :ios, '7.0'
+target :MyIMLibs do
+    pod 'PodTest'
+end
